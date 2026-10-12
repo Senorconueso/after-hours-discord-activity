@@ -1,0 +1,7264 @@
+{
+  "title": "After Hours: The Ultimate Friendship Game",
+  "version": 1,
+  "categories": [
+    {
+      "id": "nsfw",
+      "code": "NSFW",
+      "name": "Original NSFW",
+      "rating": "18+",
+      "questionCount": 100
+    },
+    {
+      "id": "mid",
+      "code": "MID",
+      "name": "After Midnight",
+      "rating": "18+",
+      "questionCount": 100
+    },
+    {
+      "id": "lgbtq",
+      "code": "LGBTQ",
+      "name": "LGBTQ+ After Dark",
+      "rating": "18+",
+      "questionCount": 100
+    },
+    {
+      "id": "explicit",
+      "code": "EXPLICIT",
+      "name": "No Euphemisms",
+      "rating": "18+",
+      "questionCount": 100
+    },
+    {
+      "id": "mixed",
+      "code": "MIXED",
+      "name": "Ultimate 18+ Mixed",
+      "rating": "18+",
+      "questionCount": 100
+    },
+    {
+      "id": "general",
+      "code": "GEN",
+      "name": "General",
+      "rating": "sfw",
+      "questionCount": 100
+    },
+    {
+      "id": "deep",
+      "code": "DEEP",
+      "name": "Deep Conversations",
+      "rating": "sfw",
+      "questionCount": 100
+    },
+    {
+      "id": "hobby",
+      "code": "HOBBY",
+      "name": "Hobbies & Interests",
+      "rating": "sfw",
+      "questionCount": 100
+    }
+  ],
+  "questions": [
+    {
+      "id": "NSFW-001",
+      "category": "nsfw",
+      "question": "What was your first real “oh, I’m definitely attracted to this person” moment?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-002",
+      "category": "nsfw",
+      "question": "What physical feature do you notice first when you’re attracted to someone?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-003",
+      "category": "nsfw",
+      "question": "What’s your biggest non-sexual turn-on?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-004",
+      "category": "nsfw",
+      "question": "What’s an oddly specific thing someone can do that instantly makes them hotter?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-005",
+      "category": "nsfw",
+      "question": "Have you ever had a crush on someone in this room?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-006",
+      "category": "nsfw",
+      "question": "What’s the most inappropriate place you’ve developed a crush on someone?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-007",
+      "category": "nsfw",
+      "question": "Have you ever flirted with someone knowing you had absolutely no intention of hooking up with them?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-008",
+      "category": "nsfw",
+      "question": "What celebrity was part of your sexual awakening?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-009",
+      "category": "nsfw",
+      "question": "What fictional character would you hook up with immediately?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-010",
+      "category": "nsfw",
+      "question": "What’s the biggest age gap you’d personally be comfortable with between you and a partner?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-011",
+      "category": "nsfw",
+      "question": "Have you ever had a friends-with-benefits situation?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-012",
+      "category": "nsfw",
+      "question": "Could you genuinely stay friends with someone after sleeping with them?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-013",
+      "category": "nsfw",
+      "question": "Have you ever hooked up with someone you initially swore you never would?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-014",
+      "category": "nsfw",
+      "question": "What’s the quickest you’ve ever gone from meeting someone to hooking up?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-015",
+      "category": "nsfw",
+      "question": "Have you ever kissed two different people in the same night?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-016",
+      "category": "nsfw",
+      "question": "What’s the hottest compliment someone could give you?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-017",
+      "category": "nsfw",
+      "question": "Do you prefer being pursued or doing the pursuing?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-018",
+      "category": "nsfw",
+      "question": "Are you more attracted to confidence, sweetness, mystery, or chaos?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-019",
+      "category": "nsfw",
+      "question": "What personality trait makes someone dramatically hotter to you?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-020",
+      "category": "nsfw",
+      "question": "What personality trait can ruin your attraction instantly?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-021",
+      "category": "nsfw",
+      "question": "What’s your favorite kind of kiss?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-022",
+      "category": "nsfw",
+      "question": "Do you like making out more than you think most people do?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-023",
+      "category": "nsfw",
+      "question": "Have you ever kissed someone just to see what it would be like?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-024",
+      "category": "nsfw",
+      "question": "What’s the longest make-out session you can remember?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-025",
+      "category": "nsfw",
+      "question": "What’s something innocent that feels weirdly intimate to you?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-026",
+      "category": "nsfw",
+      "question": "What’s your favorite kind of physical affection?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-027",
+      "category": "nsfw",
+      "question": "Have you ever gotten turned on at a wildly inconvenient time?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-028",
+      "category": "nsfw",
+      "question": "Do you think sexual tension is hotter before or after two people finally hook up?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-029",
+      "category": "nsfw",
+      "question": "Would you rather have incredible chemistry with mediocre sex or incredible sex with mediocre chemistry?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-030",
+      "category": "nsfw",
+      "question": "Have you ever stayed interested in someone mostly because the sexual chemistry was great?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-031",
+      "category": "nsfw",
+      "question": "How important is sexual compatibility in a serious relationship?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-032",
+      "category": "nsfw",
+      "question": "What’s something you didn’t realize you were into until someone introduced you to it?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-033",
+      "category": "nsfw",
+      "question": "Are you generally more dominant, submissive, switchy, or does it completely depend on the person?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-034",
+      "category": "nsfw",
+      "question": "Do you prefer taking the lead or having someone else take control?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-035",
+      "category": "nsfw",
+      "question": "What’s something that makes you feel especially desirable?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-036",
+      "category": "nsfw",
+      "question": "What makes you feel most confident during sex?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-037",
+      "category": "nsfw",
+      "question": "What kills the mood for you faster than anything else?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-038",
+      "category": "nsfw",
+      "question": "Do you prefer sex to feel romantic, playful, intense, spontaneous, or some combination?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-039",
+      "category": "nsfw",
+      "question": "Would you rather have sex planned in advance or completely spontaneous?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-040",
+      "category": "nsfw",
+      "question": "Do you prefer morning sex or late-night sex?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-041",
+      "category": "nsfw",
+      "question": "Lights on, lights off, or somewhere in between?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-042",
+      "category": "nsfw",
+      "question": "Music during sex: hot or distracting?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-043",
+      "category": "nsfw",
+      "question": "Talking during sex: essential, occasional, or absolutely not?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-044",
+      "category": "nsfw",
+      "question": "How important is eye contact during sex?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-045",
+      "category": "nsfw",
+      "question": "What’s your opinion on dirty talk?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-046",
+      "category": "nsfw",
+      "question": "Are you better at giving dirty talk or receiving it?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-047",
+      "category": "nsfw",
+      "question": "What’s the hottest thing someone has ever whispered to you?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-048",
+      "category": "nsfw",
+      "question": "Do you prefer compliments, commands, teasing, or encouragement?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-049",
+      "category": "nsfw",
+      "question": "What’s a sexual compliment you still remember?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-050",
+      "category": "nsfw",
+      "question": "Do you like being teased or do you get impatient?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-051",
+      "category": "nsfw",
+      "question": "What’s your biggest weakness when someone is trying to seduce you?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-052",
+      "category": "nsfw",
+      "question": "What outfit or style do you find ridiculously attractive?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-053",
+      "category": "nsfw",
+      "question": "Is there a particular uniform or profession you find hotter than you probably should?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-054",
+      "category": "nsfw",
+      "question": "Tattoos: turn-on, neutral, or turn-off?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-055",
+      "category": "nsfw",
+      "question": "Piercings: turn-on, neutral, or turn-off?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-056",
+      "category": "nsfw",
+      "question": "What scent immediately makes someone more attractive to you?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-057",
+      "category": "nsfw",
+      "question": "Have you ever been attracted to someone largely because of their voice?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-058",
+      "category": "nsfw",
+      "question": "What accent do you find sexiest?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-059",
+      "category": "nsfw",
+      "question": "What’s your biggest guilty-pleasure attraction?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-060",
+      "category": "nsfw",
+      "question": "What “type” do you keep claiming you don’t have even though your dating history says otherwise?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-061",
+      "category": "nsfw",
+      "question": "Have you ever sent a nude?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-062",
+      "category": "nsfw",
+      "question": "Have you ever received one you absolutely were not expecting?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-063",
+      "category": "nsfw",
+      "question": "What’s your personal rule about sending spicy pictures?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-064",
+      "category": "nsfw",
+      "question": "Have you ever taken a nude that was so good you were genuinely proud of it?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-065",
+      "category": "nsfw",
+      "question": "Have you ever sexted someone while sitting around other people who had no idea?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-066",
+      "category": "nsfw",
+      "question": "Would you rather send a risky text or say the same thing face-to-face?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-067",
+      "category": "nsfw",
+      "question": "What’s the boldest message you’ve ever sent someone you were attracted to?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-068",
+      "category": "nsfw",
+      "question": "Have you ever accidentally sent something sexual to the wrong person?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-069",
+      "category": "nsfw",
+      "question": "Have you ever screenshotted a thirst trap because someone looked *that* good?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-070",
+      "category": "nsfw",
+      "question": "How much does someone’s social media presence affect whether you find them attractive?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-071",
+      "category": "nsfw",
+      "question": "Have you ever had a one-night stand?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-072",
+      "category": "nsfw",
+      "question": "Would you have one again?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-073",
+      "category": "nsfw",
+      "question": "Have you ever hooked up with an ex after the relationship ended?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-074",
+      "category": "nsfw",
+      "question": "Have you ever slept with someone and immediately thought, “That was a mistake”?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-075",
+      "category": "nsfw",
+      "question": "Have you ever slept with someone and immediately thought, “Why did we wait so long?”",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-076",
+      "category": "nsfw",
+      "question": "What’s the wildest place you’ve hooked up?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-077",
+      "category": "nsfw",
+      "question": "What’s the wildest place you’d realistically be willing to hook up?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-078",
+      "category": "nsfw",
+      "question": "Have you ever almost been caught doing something sexual?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-079",
+      "category": "nsfw",
+      "question": "Have you ever hooked up while other people were nearby?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-080",
+      "category": "nsfw",
+      "question": "Would the possibility of getting caught make something hotter or just stressful?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-081",
+      "category": "nsfw",
+      "question": "What’s a fantasy you’re comfortable admitting you have?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-082",
+      "category": "nsfw",
+      "question": "What fantasy sounds hot in theory but you probably wouldn’t actually want to do?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-083",
+      "category": "nsfw",
+      "question": "What’s something considered kinky that feels completely normal to you?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-084",
+      "category": "nsfw",
+      "question": "What’s something popular sexually that you’ve never really understood the appeal of?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-085",
+      "category": "nsfw",
+      "question": "Would you ever use restraints with someone you trusted?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-086",
+      "category": "nsfw",
+      "question": "Would you ever be comfortable being blindfolded?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-087",
+      "category": "nsfw",
+      "question": "Would you ever roleplay?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-088",
+      "category": "nsfw",
+      "question": "If you had to choose a roleplay scenario, what would you pick?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-089",
+      "category": "nsfw",
+      "question": "Would you ever experiment with power dynamics?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-090",
+      "category": "nsfw",
+      "question": "Do you think you have a kink that would surprise your friends?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-091",
+      "category": "nsfw",
+      "question": "Would you ever have a threesome?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-092",
+      "category": "nsfw",
+      "question": "If you did, would you rather know both people beforehand or have one of them be a stranger?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-093",
+      "category": "nsfw",
+      "question": "Could you watch your partner hook up with someone else, assuming everyone had agreed to it?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-094",
+      "category": "nsfw",
+      "question": "Would you ever consider an open relationship?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-095",
+      "category": "nsfw",
+      "question": "What sexual boundary is completely non-negotiable for you?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-096",
+      "category": "nsfw",
+      "question": "What’s something you wish partners were more comfortable communicating about during sex?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-097",
+      "category": "nsfw",
+      "question": "What’s the most important thing someone can do to make you feel safe enough to experiment sexually?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-098",
+      "category": "nsfw",
+      "question": "If everyone you’ve ever slept with anonymously rated you, what do you think your most common compliment would be?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-099",
+      "category": "nsfw",
+      "question": "What question on this list were you secretly hoping somebody would ask you?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "NSFW-100",
+      "category": "nsfw",
+      "question": "What’s one NSFW question you desperately want to ask someone here—but haven’t had the nerve to ask?",
+      "rating": "18+",
+      "intensity": 3,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-001",
+      "category": "mid",
+      "question": "What sexual act are you best at?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-002",
+      "category": "mid",
+      "question": "What sexual act do you most enjoy receiving?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-003",
+      "category": "mid",
+      "question": "Do you prefer giving oral or receiving it?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-004",
+      "category": "mid",
+      "question": "What makes someone genuinely good at oral sex?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-005",
+      "category": "mid",
+      "question": "What’s the longest you’ve ever gone down on someone?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-006",
+      "category": "mid",
+      "question": "Have you ever made someone orgasm from oral alone?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-007",
+      "category": "mid",
+      "question": "Have you ever faked an orgasm?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-008",
+      "category": "mid",
+      "question": "Has someone ever admitted they faked one with you?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-009",
+      "category": "mid",
+      "question": "How easily do you usually orgasm with another person?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-010",
+      "category": "mid",
+      "question": "What’s the most orgasms you’ve had in one session?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-011",
+      "category": "mid",
+      "question": "What’s the most orgasms you’ve given someone in one session?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-012",
+      "category": "mid",
+      "question": "Do you prefer quickies or drawn-out sex?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-013",
+      "category": "mid",
+      "question": "What’s your ideal amount of time for sex?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-014",
+      "category": "mid",
+      "question": "Do you usually want another round afterward?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-015",
+      "category": "mid",
+      "question": "What’s the most rounds you’ve ever gone in one night?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-016",
+      "category": "mid",
+      "question": "What sexual position do you default to most often?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-017",
+      "category": "mid",
+      "question": "What position makes you orgasm the easiest?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-018",
+      "category": "mid",
+      "question": "What position looks hotter than it actually feels?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-019",
+      "category": "mid",
+      "question": "What position do you think is underrated?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-020",
+      "category": "mid",
+      "question": "What position have you always wanted to try?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-021",
+      "category": "mid",
+      "question": "Do you prefer being on top or underneath?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-022",
+      "category": "mid",
+      "question": "Do you like having your partner physically move or reposition you?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-023",
+      "category": "mid",
+      "question": "How rough do you actually like sex?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-024",
+      "category": "mid",
+      "question": "Do you enjoy having your hair pulled?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-025",
+      "category": "mid",
+      "question": "Do you enjoy spanking?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-026",
+      "category": "mid",
+      "question": "Would you rather give or receive a spanking?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-027",
+      "category": "mid",
+      "question": "Do you enjoy being pinned down?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-028",
+      "category": "mid",
+      "question": "Do you enjoy pinning someone else down?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-029",
+      "category": "mid",
+      "question": "Do you like having your wrists restrained?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-030",
+      "category": "mid",
+      "question": "Have you ever used actual restraints during sex?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-031",
+      "category": "mid",
+      "question": "Have you ever used a blindfold?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-032",
+      "category": "mid",
+      "question": "Would being blindfolded make you more turned on or anxious?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-033",
+      "category": "mid",
+      "question": "Do you enjoy biting during sex?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-034",
+      "category": "mid",
+      "question": "Where do you like being bitten?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-035",
+      "category": "mid",
+      "question": "Do you enjoy leaving marks on someone?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-036",
+      "category": "mid",
+      "question": "Do you enjoy someone leaving marks on you?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-037",
+      "category": "mid",
+      "question": "How do you feel about visible hickeys?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-038",
+      "category": "mid",
+      "question": "Do you like scratches down your back?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-039",
+      "category": "mid",
+      "question": "How vocal are you during sex?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-040",
+      "category": "mid",
+      "question": "Do you prefer a loud partner or a quiet one?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-041",
+      "category": "mid",
+      "question": "What kind of dirty talk turns you on most?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-042",
+      "category": "mid",
+      "question": "What word or phrase during sex gets an immediate reaction from you?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-043",
+      "category": "mid",
+      "question": "Is there any sexual word that completely kills the mood for you?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-044",
+      "category": "mid",
+      "question": "Do you enjoy being praised during sex?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-045",
+      "category": "mid",
+      "question": "Do you enjoy being degraded during consensual sex?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-046",
+      "category": "mid",
+      "question": "Would you rather be called “good” or “naughty”?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-047",
+      "category": "mid",
+      "question": "Do you enjoy giving commands?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-048",
+      "category": "mid",
+      "question": "Do you enjoy being told exactly what to do?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-049",
+      "category": "mid",
+      "question": "Have you ever roleplayed during sex?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-050",
+      "category": "mid",
+      "question": "What roleplay fantasy would you actually try?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-051",
+      "category": "mid",
+      "question": "Have you ever used sex toys with a partner?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-052",
+      "category": "mid",
+      "question": "What’s your favorite kind of toy?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-053",
+      "category": "mid",
+      "question": "Do you prefer toys used on you or using them on someone else?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-054",
+      "category": "mid",
+      "question": "Have you ever brought a toy into sex without discussing it beforehand?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-055",
+      "category": "mid",
+      "question": "What toy would you be most curious to try?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-056",
+      "category": "mid",
+      "question": "Do you own more sex toys than your friends would probably guess?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-057",
+      "category": "mid",
+      "question": "Have you ever broken a sex toy?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-058",
+      "category": "mid",
+      "question": "Have you ever used something as a sex toy that absolutely was not designed to be one?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-059",
+      "category": "mid",
+      "question": "Do you watch porn?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-060",
+      "category": "mid",
+      "question": "What kind of porn do you usually gravitate toward?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-061",
+      "category": "mid",
+      "question": "Has porn ever helped you discover a kink?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-062",
+      "category": "mid",
+      "question": "What porn category turns you on in fantasy but doesn’t interest you in real life?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-063",
+      "category": "mid",
+      "question": "Have you ever watched porn with a partner?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-064",
+      "category": "mid",
+      "question": "Would watching porn together turn you on or make things awkward?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-065",
+      "category": "mid",
+      "question": "Have you ever masturbated while thinking about someone you personally know?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-066",
+      "category": "mid",
+      "question": "Have you ever fantasized sexually about a friend?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-067",
+      "category": "mid",
+      "question": "Have you ever fantasized about someone while they were in the same room?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-068",
+      "category": "mid",
+      "question": "Have you masturbated somewhere other than your bedroom or bathroom?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-069",
+      "category": "mid",
+      "question": "What’s the strangest place you’ve masturbated?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-070",
+      "category": "mid",
+      "question": "Have you ever gotten caught masturbating?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-071",
+      "category": "mid",
+      "question": "Have you ever walked in on somebody else masturbating or having sex?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-072",
+      "category": "mid",
+      "question": "Have you ever had sex somewhere public?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-073",
+      "category": "mid",
+      "question": "What’s the riskiest place you’ve had sex?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-074",
+      "category": "mid",
+      "question": "Have you ever had sex in a car?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-075",
+      "category": "mid",
+      "question": "Have you ever had sex in a bathroom at a party, bar, or club?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-076",
+      "category": "mid",
+      "question": "Have you ever hooked up while someone else was asleep nearby?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-077",
+      "category": "mid",
+      "question": "Have you ever had sex somewhere you knew you absolutely weren’t supposed to?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-078",
+      "category": "mid",
+      "question": "Have you ever been interrupted in the middle of sex?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-079",
+      "category": "mid",
+      "question": "What’s the closest you’ve ever come to getting caught?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-080",
+      "category": "mid",
+      "question": "Does the possibility of being overheard turn you on?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-081",
+      "category": "mid",
+      "question": "Have you ever had anal sex?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-082",
+      "category": "mid",
+      "question": "If so, do you prefer giving, receiving, or both?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-083",
+      "category": "mid",
+      "question": "Is anal something you actively enjoy, occasionally enjoy, or avoid?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-084",
+      "category": "mid",
+      "question": "What sexual activity did you discover you liked much more than expected?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-085",
+      "category": "mid",
+      "question": "What sexual activity did you discover you liked much less than expected?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-086",
+      "category": "mid",
+      "question": "How important is penetration to sex for you?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-087",
+      "category": "mid",
+      "question": "Could you be completely satisfied without penetration?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-088",
+      "category": "mid",
+      "question": "How do you feel about swallowing during oral sex?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-089",
+      "category": "mid",
+      "question": "Do you care where a partner finishes?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-090",
+      "category": "mid",
+      "question": "Do you have a specific preference about ejaculation during sex?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-091",
+      "category": "mid",
+      "question": "Have you ever had a threesome?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-092",
+      "category": "mid",
+      "question": "If you were choosing a threesome tonight, what genders would you want involved?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-093",
+      "category": "mid",
+      "question": "Would you rather be the center of attention in a threesome or share attention equally?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-094",
+      "category": "mid",
+      "question": "Have you ever watched two other people have sex in person?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-095",
+      "category": "mid",
+      "question": "Would you enjoy someone watching you have sex?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-096",
+      "category": "mid",
+      "question": "What kink have you never told most people about?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-097",
+      "category": "mid",
+      "question": "What is your absolute hard limit sexually?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-098",
+      "category": "mid",
+      "question": "What’s the dirtiest thing you’ve done that your friends probably don’t know about?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-099",
+      "category": "mid",
+      "question": "What person in your life would be most shocked if they knew your full sexual history?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MID-100",
+      "category": "mid",
+      "question": "What question on this list were you most nervous somebody would make you answer?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-001",
+      "category": "lgbtq",
+      "question": "When did you first realize your attraction wasn’t entirely straight?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-002",
+      "category": "lgbtq",
+      "question": "Who was your first same-gender crush?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-003",
+      "category": "lgbtq",
+      "question": "Who was your first queer celebrity crush?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-004",
+      "category": "lgbtq",
+      "question": "What fictional character played an embarrassing role in your queer awakening?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-005",
+      "category": "lgbtq",
+      "question": "What was your first queer kiss like?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-006",
+      "category": "lgbtq",
+      "question": "What was your first queer hookup like?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-007",
+      "category": "lgbtq",
+      "question": "Did your first queer sexual experience confirm things for you or create even more questions?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-008",
+      "category": "lgbtq",
+      "question": "Was there something about queer sex that surprised you the first time?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-009",
+      "category": "lgbtq",
+      "question": "What gender presentation attracts you most often?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-010",
+      "category": "lgbtq",
+      "question": "Are you attracted to masculinity, femininity, androgyny, or some combination?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-011",
+      "category": "lgbtq",
+      "question": "Does your attraction change dramatically depending on someone’s gender?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-012",
+      "category": "lgbtq",
+      "question": "If you’re attracted to multiple genders, does that attraction feel different with each?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-013",
+      "category": "lgbtq",
+      "question": "Do you have completely different “types” depending on gender?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-014",
+      "category": "lgbtq",
+      "question": "Which gender are you most intimidated by when flirting?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-015",
+      "category": "lgbtq",
+      "question": "Which gender do you find easiest to flirt with?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-016",
+      "category": "lgbtq",
+      "question": "Who tends to make the first move when you’re dating queer people?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-017",
+      "category": "lgbtq",
+      "question": "Have you ever spent an entire date wondering whether the other person realized it was a date?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-018",
+      "category": "lgbtq",
+      "question": "Have you ever mistaken queer friendliness for flirting?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-019",
+      "category": "lgbtq",
+      "question": "Have you ever mistaken flirting for queer friendliness?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-020",
+      "category": "lgbtq",
+      "question": "How good is your gaydar actually?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-021",
+      "category": "lgbtq",
+      "question": "Have you ever hooked up with someone primarily because they were giving you unmistakably queer energy?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-022",
+      "category": "lgbtq",
+      "question": "What queer fashion choice makes someone instantly hotter to you?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-023",
+      "category": "lgbtq",
+      "question": "What hairstyle is an instant queer weakness for you?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-024",
+      "category": "lgbtq",
+      "question": "Tattoos or piercings—which gets you more?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-025",
+      "category": "lgbtq",
+      "question": "What queer stereotype about your dating history is unfortunately accurate?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-026",
+      "category": "lgbtq",
+      "question": "Are you more attracted to femmes, mascs, butches, bears, twinks, otters, studs, androgynous people, or does none of that matter?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-027",
+      "category": "lgbtq",
+      "question": "Have you ever realized everyone you’ve dated somehow fits the exact same queer archetype?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-028",
+      "category": "lgbtq",
+      "question": "What queer archetype are *you*?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-029",
+      "category": "lgbtq",
+      "question": "Do your friends have a nickname for your type?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-030",
+      "category": "lgbtq",
+      "question": "What’s the most predictable thing about the people you hook up with?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-031",
+      "category": "lgbtq",
+      "question": "Are you usually a top, bottom, vers/switch, side, or does the label not fit you?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-032",
+      "category": "lgbtq",
+      "question": "Has your preference changed over time?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-033",
+      "category": "lgbtq",
+      "question": "Have you ever told someone you were more experienced at a particular role than you actually were?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-034",
+      "category": "lgbtq",
+      "question": "What made you realize what role you preferred?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-035",
+      "category": "lgbtq",
+      "question": "Do you like switching roles with the same partner?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-036",
+      "category": "lgbtq",
+      "question": "Have you ever surprised yourself by enjoying a role you didn’t think you’d like?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-037",
+      "category": "lgbtq",
+      "question": "Do you enjoy penetration?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-038",
+      "category": "lgbtq",
+      "question": "Do you prefer giving penetration, receiving it, both, or neither?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-039",
+      "category": "lgbtq",
+      "question": "How important is anal sex to your sex life?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-040",
+      "category": "lgbtq",
+      "question": "Do you think queer people put too much emphasis on top/bottom labels?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-041",
+      "category": "lgbtq",
+      "question": "Are you comfortable asking someone their sexual role before hooking up?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-042",
+      "category": "lgbtq",
+      "question": "How early is *too early* to ask if somebody is a top or bottom?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-043",
+      "category": "lgbtq",
+      "question": "Have you ever discovered you and someone were sexually incompatible only after making out for hours?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-044",
+      "category": "lgbtq",
+      "question": "Have two bottoms or two tops ever stubbornly tried to make things work anyway?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-045",
+      "category": "lgbtq",
+      "question": "Could you date someone long-term whose preferred sexual role perfectly matched yours?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-046",
+      "category": "lgbtq",
+      "question": "What’s your favorite kind of oral sex to give?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-047",
+      "category": "lgbtq",
+      "question": "What’s your favorite kind to receive?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-048",
+      "category": "lgbtq",
+      "question": "Do you prefer oral to penetration?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-049",
+      "category": "lgbtq",
+      "question": "Have you ever made someone orgasm from oral alone?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-050",
+      "category": "lgbtq",
+      "question": "Has someone made you orgasm from oral alone?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-051",
+      "category": "lgbtq",
+      "question": "How important are hands during sex for you?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-052",
+      "category": "lgbtq",
+      "question": "Do you prefer toys or fingers?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-053",
+      "category": "lgbtq",
+      "question": "What toy has been the biggest game-changer for you?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-054",
+      "category": "lgbtq",
+      "question": "Do you own a toy you’d be mortified to explain to your family?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-055",
+      "category": "lgbtq",
+      "question": "Have you ever gone sex-toy shopping with friends?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-056",
+      "category": "lgbtq",
+      "question": "Have you ever shared toys with a partner?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-057",
+      "category": "lgbtq",
+      "question": "Would you let a partner choose a toy for you without telling you what they picked beforehand?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-058",
+      "category": "lgbtq",
+      "question": "Strap-ons: hot, intimidating, both, or not your thing?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-059",
+      "category": "lgbtq",
+      "question": "Would you rather be the one wearing one or receiving?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-060",
+      "category": "lgbtq",
+      "question": "Have you ever underestimated how much preparation a particular hookup was going to require?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-061",
+      "category": "lgbtq",
+      "question": "What’s the funniest preparation-related disaster you’ve had before sex?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-062",
+      "category": "lgbtq",
+      "question": "Have you ever canceled a hookup because your body simply said “not tonight”?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-063",
+      "category": "lgbtq",
+      "question": "How much preparation are you willing to do for really good sex?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-064",
+      "category": "lgbtq",
+      "question": "What’s your most embarrassing “I prepared for nothing” story?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-065",
+      "category": "lgbtq",
+      "question": "Have you ever spent an unreasonable amount of money getting ready for a hookup?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-066",
+      "category": "lgbtq",
+      "question": "Have you ever hooked up with somebody you met at Pride?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-067",
+      "category": "lgbtq",
+      "question": "Have you ever hooked up with somebody you met at a gay bar or queer club?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-068",
+      "category": "lgbtq",
+      "question": "Have you ever hooked up with somebody from Grindr, HER, Scruff, Feeld, Lex, or another queer dating app?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-069",
+      "category": "lgbtq",
+      "question": "What’s the fastest you’ve ever gone from “hey” on an app to being naked together?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-070",
+      "category": "lgbtq",
+      "question": "Have you ever deleted a hookup app dramatically and redownloaded it less than a week later?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-071",
+      "category": "lgbtq",
+      "question": "What's the wildest profile bio you’ve ever encountered?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-072",
+      "category": "lgbtq",
+      "question": "Have you ever recognized someone you knew while scrolling through a queer hookup app?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-073",
+      "category": "lgbtq",
+      "question": "Have you ever discovered someone you assumed was straight on a queer app?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-074",
+      "category": "lgbtq",
+      "question": "Have you ever matched with two people who turned out to know each other?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-075",
+      "category": "lgbtq",
+      "question": "Have you ever hooked up with someone and later realized you had several mutual friends?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-076",
+      "category": "lgbtq",
+      "question": "Have queer social circles ever made your hookup history complicated?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-077",
+      "category": "lgbtq",
+      "question": "Have you ever dated someone who had previously dated one of your friends?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-078",
+      "category": "lgbtq",
+      "question": "Have you ever slept with multiple people from the same friend group?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-079",
+      "category": "lgbtq",
+      "question": "Have you ever been at a party where multiple people you’d hooked up with were all present?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-080",
+      "category": "lgbtq",
+      "question": "What is your personal queer version of “everyone knows everyone”?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-081",
+      "category": "lgbtq",
+      "question": "Have you ever had a crush on a straight person you knew was completely unavailable?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-082",
+      "category": "lgbtq",
+      "question": "What’s the longest you’ve ever maintained a hopeless straight-person crush?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-083",
+      "category": "lgbtq",
+      "question": "Have you ever hooked up with someone who identified as straight at the time?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-084",
+      "category": "lgbtq",
+      "question": "Have you ever been somebody’s first queer experience?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-085",
+      "category": "lgbtq",
+      "question": "Did knowing you were someone’s first queer experience make things hotter, more stressful, or both?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-086",
+      "category": "lgbtq",
+      "question": "Have you ever questioned your label because of one specific person?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-087",
+      "category": "lgbtq",
+      "question": "Has someone ever been so attractive they made your normal gender preferences temporarily irrelevant?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-088",
+      "category": "lgbtq",
+      "question": "Is there a gender you haven’t slept with yet but are curious about?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-089",
+      "category": "lgbtq",
+      "question": "Is there a queer experience you feel like everyone else has had except you?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-090",
+      "category": "lgbtq",
+      "question": "What's a queer sexual stereotype you personally enjoy leaning into?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-091",
+      "category": "lgbtq",
+      "question": "What’s a queer sexual stereotype that annoys you?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-092",
+      "category": "lgbtq",
+      "question": "What queer-specific kink or fantasy have you wanted to explore?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-093",
+      "category": "lgbtq",
+      "question": "Have you ever fantasized about being with multiple genders at once?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-094",
+      "category": "lgbtq",
+      "question": "Would you rather have a threesome with two people of the same gender or two different genders?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-095",
+      "category": "lgbtq",
+      "question": "Would you go to a queer sex party?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-096",
+      "category": "lgbtq",
+      "question": "Would you ever visit a bathhouse, cruising space, dungeon, or similar adults-only venue?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-097",
+      "category": "lgbtq",
+      "question": "How comfortable would you be having sex with other consenting people nearby?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-098",
+      "category": "lgbtq",
+      "question": "What is something about queer sex you wish people talked about more openly?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-099",
+      "category": "lgbtq",
+      "question": "What is the most explicit question you wish another queer person would ask you?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "LGBTQ-100",
+      "category": "lgbtq",
+      "question": "Who in this room do you think would be the most sexually compatible with you—and why?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-001",
+      "category": "explicit",
+      "question": "What sexual position makes you orgasm the fastest?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-002",
+      "category": "explicit",
+      "question": "What position do you think you look hottest in?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-003",
+      "category": "explicit",
+      "question": "What position do you secretly hate?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-004",
+      "category": "explicit",
+      "question": "Do you prefer slow penetration or hard, fast penetration?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-005",
+      "category": "explicit",
+      "question": "Do you prefer deep penetration or shallower stimulation?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-006",
+      "category": "explicit",
+      "question": "What’s your favorite position for receiving oral?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-007",
+      "category": "explicit",
+      "question": "What’s your favorite position for giving oral?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-008",
+      "category": "explicit",
+      "question": "Do you like being watched while giving oral?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-009",
+      "category": "explicit",
+      "question": "Do you enjoy eye contact during oral sex?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-010",
+      "category": "explicit",
+      "question": "Have you ever made someone orgasm without using your hands?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-011",
+      "category": "explicit",
+      "question": "Have you ever orgasmed from oral sex alone?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-012",
+      "category": "explicit",
+      "question": "Do you prefer licking, sucking, penetration, or hands?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-013",
+      "category": "explicit",
+      "question": "What makes someone genuinely incredible at oral sex?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-014",
+      "category": "explicit",
+      "question": "What's the worst oral-sex technique someone has tried on you?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-015",
+      "category": "explicit",
+      "question": "Have you ever stopped someone during oral because they were doing such a bad job?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-016",
+      "category": "explicit",
+      "question": "Do you like having your hair pulled while giving oral?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-017",
+      "category": "explicit",
+      "question": "Do you like someone holding your head during oral sex?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-018",
+      "category": "explicit",
+      "question": "Do you enjoy being told exactly what to do during oral?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-019",
+      "category": "explicit",
+      "question": "Do you prefer swallowing, spitting, or avoiding the situation entirely?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-020",
+      "category": "explicit",
+      "question": "Do you like having a partner finish on your body?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-021",
+      "category": "explicit",
+      "question": "Where do you most enjoy a partner finishing?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-022",
+      "category": "explicit",
+      "question": "Is there anywhere you absolutely don't want someone finishing?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-023",
+      "category": "explicit",
+      "question": "Have you ever surprised someone with where you finished?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-024",
+      "category": "explicit",
+      "question": "Does seeing your partner orgasm turn you on?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-025",
+      "category": "explicit",
+      "question": "Does hearing someone orgasm make you more likely to orgasm yourself?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-026",
+      "category": "explicit",
+      "question": "What is the hardest you've ever orgasmed with another person?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-027",
+      "category": "explicit",
+      "question": "What’s the most orgasms you’ve had during one hookup?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-028",
+      "category": "explicit",
+      "question": "What’s the most orgasms you’ve given someone in one hookup?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-029",
+      "category": "explicit",
+      "question": "Have you ever kept going immediately after orgasming?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-030",
+      "category": "explicit",
+      "question": "Do you become more sensitive or want more stimulation after orgasm?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-031",
+      "category": "explicit",
+      "question": "Have you ever squirted or been with someone who did?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-032",
+      "category": "explicit",
+      "question": "Is squirting something you enjoy, want to experience, or don’t care about?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-033",
+      "category": "explicit",
+      "question": "Have you ever ejaculated much faster than you wanted to?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-034",
+      "category": "explicit",
+      "question": "Have you ever struggled to orgasm even though the sex felt amazing?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-035",
+      "category": "explicit",
+      "question": "Have you ever faked an orgasm just to end the encounter?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-036",
+      "category": "explicit",
+      "question": "Have you ever pretended you didn’t orgasm when you actually did?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-037",
+      "category": "explicit",
+      "question": "How long does sex usually last for you?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-038",
+      "category": "explicit",
+      "question": "What’s the longest sex session you’ve ever had?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-039",
+      "category": "explicit",
+      "question": "What’s the shortest hookup you’ve had that still felt worth it?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-040",
+      "category": "explicit",
+      "question": "How many rounds could you realistically handle in one night?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-041",
+      "category": "explicit",
+      "question": "Have you ever woken someone up specifically for sex?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-042",
+      "category": "explicit",
+      "question": "Have you ever been woken up by a partner initiating sex after you’d agreed that was okay?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-043",
+      "category": "explicit",
+      "question": "Do you prefer morning sex or middle-of-the-night sex?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-044",
+      "category": "explicit",
+      "question": "Do you enjoy shower sex?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-045",
+      "category": "explicit",
+      "question": "Have you ever had sex standing up?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-046",
+      "category": "explicit",
+      "question": "Have you ever had sex against a wall?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-047",
+      "category": "explicit",
+      "question": "Have you ever had sex on the floor because you couldn't wait to reach the bed?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-048",
+      "category": "explicit",
+      "question": "Have you ever had sex in a car?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-049",
+      "category": "explicit",
+      "question": "Have you ever had sex outdoors?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-050",
+      "category": "explicit",
+      "question": "Have you ever had consensual sex somewhere there was a real possibility of being overheard?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-051",
+      "category": "explicit",
+      "question": "Does knowing someone might hear you make sex hotter?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-052",
+      "category": "explicit",
+      "question": "Have you ever had to cover your mouth to keep quiet?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-053",
+      "category": "explicit",
+      "question": "Have you ever purposely tried to make a partner louder?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-054",
+      "category": "explicit",
+      "question": "Are you naturally loud during sex?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-055",
+      "category": "explicit",
+      "question": "What's the loudest you've ever been during sex?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-056",
+      "category": "explicit",
+      "question": "What sound from a partner turns you on the most?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-057",
+      "category": "explicit",
+      "question": "Do you enjoy dirty talk while being penetrated?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-058",
+      "category": "explicit",
+      "question": "What kind of dirty talk works best on you?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-059",
+      "category": "explicit",
+      "question": "Do you enjoy praise during sex?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-060",
+      "category": "explicit",
+      "question": "What's the hottest compliment someone could give you while you're naked?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-061",
+      "category": "explicit",
+      "question": "Do you enjoy consensual degradation?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-062",
+      "category": "explicit",
+      "question": "What type of degrading language, if any, turns you on?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-063",
+      "category": "explicit",
+      "question": "Is there any word that immediately turns you off?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-064",
+      "category": "explicit",
+      "question": "Do you enjoy begging during sex?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-065",
+      "category": "explicit",
+      "question": "Do you prefer making someone beg?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-066",
+      "category": "explicit",
+      "question": "Do you enjoy being ordered to orgasm?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-067",
+      "category": "explicit",
+      "question": "Do you like being told not to orgasm yet?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-068",
+      "category": "explicit",
+      "question": "Have you ever experimented with edging?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-069",
+      "category": "explicit",
+      "question": "What's the longest you've intentionally delayed an orgasm?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-070",
+      "category": "explicit",
+      "question": "Do you enjoy overstimulation after orgasm?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-071",
+      "category": "explicit",
+      "question": "Do you like being spanked during sex?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-072",
+      "category": "explicit",
+      "question": "How hard do you actually like being spanked?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-073",
+      "category": "explicit",
+      "question": "Do you enjoy choking or breath-play fantasies, even if you wouldn't practice them?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-074",
+      "category": "explicit",
+      "question": "Do you enjoy being restrained?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-075",
+      "category": "explicit",
+      "question": "Do you enjoy restraining someone?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-076",
+      "category": "explicit",
+      "question": "Have you used cuffs, ropes, or other restraints?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-077",
+      "category": "explicit",
+      "question": "Do you enjoy blindfolds?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-078",
+      "category": "explicit",
+      "question": "Would you let someone choose what they do to you while you're blindfolded within previously agreed boundaries?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-079",
+      "category": "explicit",
+      "question": "Do you enjoy being physically pinned down?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-080",
+      "category": "explicit",
+      "question": "Do you enjoy pinning your partner down?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-081",
+      "category": "explicit",
+      "question": "Do you like biting?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-082",
+      "category": "explicit",
+      "question": "Where do you most enjoy being bitten?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-083",
+      "category": "explicit",
+      "question": "Do you like scratching during sex?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-084",
+      "category": "explicit",
+      "question": "Do you enjoy leaving visible marks?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-085",
+      "category": "explicit",
+      "question": "Do you enjoy wearing visible marks afterward?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-086",
+      "category": "explicit",
+      "question": "Have you ever used a vibrator during partnered sex?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-087",
+      "category": "explicit",
+      "question": "Have you ever used a dildo during partnered sex?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-088",
+      "category": "explicit",
+      "question": "Have you ever used a strap-on?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-089",
+      "category": "explicit",
+      "question": "Would you rather wear a strap-on or receive one?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-090",
+      "category": "explicit",
+      "question": "Have you ever tried anal penetration?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-091",
+      "category": "explicit",
+      "question": "Do you enjoy receiving anal stimulation?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-092",
+      "category": "explicit",
+      "question": "Do you enjoy giving anal stimulation?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-093",
+      "category": "explicit",
+      "question": "Do you prefer fingers, toys, oral, or penetration for anal play?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-094",
+      "category": "explicit",
+      "question": "Have you ever used a butt plug during sex?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-095",
+      "category": "explicit",
+      "question": "Have you ever masturbated with a partner watching?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-096",
+      "category": "explicit",
+      "question": "Have you ever watched a partner masturbate without touching them?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-097",
+      "category": "explicit",
+      "question": "Would you enjoy mutually masturbating while watching each other?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-098",
+      "category": "explicit",
+      "question": "What's the most explicit fantasy you've actually acted out?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-099",
+      "category": "explicit",
+      "question": "What's the most explicit fantasy you still want to act out?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "EXPLICIT-100",
+      "category": "explicit",
+      "question": "What's one sexual thing you desperately want somebody to ask you to do?",
+      "rating": "18+",
+      "intensity": 5,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-001",
+      "category": "mixed",
+      "question": "Who was your first celebrity crush?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-002",
+      "category": "mixed",
+      "question": "Who was your first queer crush?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-003",
+      "category": "mixed",
+      "question": "What fictional character was part of your sexual awakening?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-004",
+      "category": "mixed",
+      "question": "What physical feature do you notice first?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-005",
+      "category": "mixed",
+      "question": "What's your most oddly specific turn-on?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-006",
+      "category": "mixed",
+      "question": "What's something completely non-sexual that turns you on?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-007",
+      "category": "mixed",
+      "question": "What's the quickest way somebody can become unattractive to you?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-008",
+      "category": "mixed",
+      "question": "Do you have a type even though you claim you don't?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-009",
+      "category": "mixed",
+      "question": "Which gender are you most nervous flirting with?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-010",
+      "category": "mixed",
+      "question": "Are you attracted more to masculinity, femininity, androgyny, or the individual person?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-011",
+      "category": "mixed",
+      "question": "Have you ever crushed on a close friend?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-012",
+      "category": "mixed",
+      "question": "Have you ever fantasized about a friend?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-013",
+      "category": "mixed",
+      "question": "Have you ever hooked up with someone from your friend group?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-014",
+      "category": "mixed",
+      "question": "Have you slept with multiple people who all know each other?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-015",
+      "category": "mixed",
+      "question": "Have you ever walked into a room where several of your former hookups were present?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-016",
+      "category": "mixed",
+      "question": "Could you comfortably stay friends with someone after sleeping together?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-017",
+      "category": "mixed",
+      "question": "Have you ever hooked up with an ex?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-018",
+      "category": "mixed",
+      "question": "What's the longest you've kept going back to someone you knew was a terrible idea?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-019",
+      "category": "mixed",
+      "question": "Have you ever slept with someone just because the sexual tension became unbearable?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-020",
+      "category": "mixed",
+      "question": "What's the fastest you've gone from meeting someone to getting naked together?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-021",
+      "category": "mixed",
+      "question": "Have you ever had a one-night stand?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-022",
+      "category": "mixed",
+      "question": "What's your ideal friends-with-benefits arrangement?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-023",
+      "category": "mixed",
+      "question": "Have you ever caught feelings for a hookup?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-024",
+      "category": "mixed",
+      "question": "Has a hookup ever caught feelings for you?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-025",
+      "category": "mixed",
+      "question": "Have you ever ghosted someone after sex?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-026",
+      "category": "mixed",
+      "question": "Have you ever been ghosted after sex?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-027",
+      "category": "mixed",
+      "question": "What is the funniest excuse you've used to avoid a hookup?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-028",
+      "category": "mixed",
+      "question": "What's the worst date that somehow still ended in sex?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-029",
+      "category": "mixed",
+      "question": "What's the best date that didn't end in sex?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-030",
+      "category": "mixed",
+      "question": "Have you ever kissed someone solely because you were curious?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-031",
+      "category": "mixed",
+      "question": "What's your favorite way to be kissed?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-032",
+      "category": "mixed",
+      "question": "Do you like making out for a long time or getting straight to the point?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-033",
+      "category": "mixed",
+      "question": "What's the hottest place someone can kiss you?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-034",
+      "category": "mixed",
+      "question": "What's the most sensitive part of your body?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-035",
+      "category": "mixed",
+      "question": "What's one place people don't touch enough during sex?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-036",
+      "category": "mixed",
+      "question": "Do you prefer giving oral or receiving?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-037",
+      "category": "mixed",
+      "question": "What's the biggest difference between good oral sex and great oral sex?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-038",
+      "category": "mixed",
+      "question": "Have you ever made someone orgasm from oral alone?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-039",
+      "category": "mixed",
+      "question": "What's your favorite sexual position?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-040",
+      "category": "mixed",
+      "question": "What's your least favorite sexual position?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-041",
+      "category": "mixed",
+      "question": "Do you prefer being on top or underneath?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-042",
+      "category": "mixed",
+      "question": "Do you like being physically moved around during sex?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-043",
+      "category": "mixed",
+      "question": "Do you like rough sex?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-044",
+      "category": "mixed",
+      "question": "Do you prefer romantic sex or filthy sex?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-045",
+      "category": "mixed",
+      "question": "What's hotter: slow teasing or immediate intensity?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-046",
+      "category": "mixed",
+      "question": "Do you prefer dominant partners, submissive partners, switches, or no particular dynamic?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-047",
+      "category": "mixed",
+      "question": "Are you dominant, submissive, switchy, or situation-dependent?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-048",
+      "category": "mixed",
+      "question": "Do you enjoy giving commands?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-049",
+      "category": "mixed",
+      "question": "Do you enjoy following commands?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-050",
+      "category": "mixed",
+      "question": "Would you rather hear praise or dirty talk?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-051",
+      "category": "mixed",
+      "question": "What's the hottest thing someone can say during sex?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-052",
+      "category": "mixed",
+      "question": "What's something someone can say that immediately ruins sex?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-053",
+      "category": "mixed",
+      "question": "Are you loud during sex?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-054",
+      "category": "mixed",
+      "question": "Do you like loud partners?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-055",
+      "category": "mixed",
+      "question": "Do you enjoy eye contact during sex?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-056",
+      "category": "mixed",
+      "question": "Lights on or lights off?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-057",
+      "category": "mixed",
+      "question": "Music during sex or silence?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-058",
+      "category": "mixed",
+      "question": "Morning sex or late-night sex?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-059",
+      "category": "mixed",
+      "question": "Bed or shower?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-060",
+      "category": "mixed",
+      "question": "Planned hookup or spontaneous hookup?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-061",
+      "category": "mixed",
+      "question": "Have you ever masturbated thinking about someone you personally know?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-062",
+      "category": "mixed",
+      "question": "Have you ever fantasized about somebody while they were sitting right beside you?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-063",
+      "category": "mixed",
+      "question": "Have you ever sexted while sitting with people who had no idea?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-064",
+      "category": "mixed",
+      "question": "Have you ever sent a nude?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-065",
+      "category": "mixed",
+      "question": "What's the boldest nude you've ever sent?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-066",
+      "category": "mixed",
+      "question": "Have you ever taken a nude and thought, “Damn, I look incredible”?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-067",
+      "category": "mixed",
+      "question": "Have you ever accidentally sent something sexual to the wrong person?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-068",
+      "category": "mixed",
+      "question": "What's the thirstiest DM you've ever sent?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-069",
+      "category": "mixed",
+      "question": "Have you ever met somebody from a hookup app the same night?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-070",
+      "category": "mixed",
+      "question": "What's your fastest dating-app-to-hookup turnaround?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-071",
+      "category": "mixed",
+      "question": "Have you ever recognized someone you knew on Grindr, HER, Scruff, Feeld, Tinder, or another dating app?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-072",
+      "category": "mixed",
+      "question": "Have you ever hooked up with someone you thought was straight?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-073",
+      "category": "mixed",
+      "question": "Have you ever been someone's first queer experience?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-074",
+      "category": "mixed",
+      "question": "Has someone ever made you rethink your sexuality or usual “type”?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-075",
+      "category": "mixed",
+      "question": "If you're attracted to multiple genders, does sex feel different depending on your partner's gender?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-076",
+      "category": "mixed",
+      "question": "Do you use labels like top, bottom, vers, side, dom, sub, or switch?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-077",
+      "category": "mixed",
+      "question": "Has your preferred sexual role changed over time?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-078",
+      "category": "mixed",
+      "question": "Have you ever realized you and someone were sexually incompatible only after you were already naked?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-079",
+      "category": "mixed",
+      "question": "Could you date someone whose bedroom preferences were identical to yours rather than complementary?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-080",
+      "category": "mixed",
+      "question": "What queer stereotype about your sex life is embarrassingly accurate?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-081",
+      "category": "mixed",
+      "question": "What's one sex toy you own?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-082",
+      "category": "mixed",
+      "question": "What's one toy you'd love to try?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-083",
+      "category": "mixed",
+      "question": "Have you ever used a vibrator during sex?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-084",
+      "category": "mixed",
+      "question": "Would you try a strap-on?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-085",
+      "category": "mixed",
+      "question": "Have you ever tried restraints?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-086",
+      "category": "mixed",
+      "question": "Would you enjoy being blindfolded?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-087",
+      "category": "mixed",
+      "question": "Do you enjoy spanking?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-088",
+      "category": "mixed",
+      "question": "Do you enjoy biting or being bitten?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-089",
+      "category": "mixed",
+      "question": "Are you into leaving marks?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-090",
+      "category": "mixed",
+      "question": "What's a kink that surprised you when you realized you enjoyed it?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-091",
+      "category": "mixed",
+      "question": "What's something kinky that you expected to like but didn't?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-092",
+      "category": "mixed",
+      "question": "Would you ever have a threesome?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-093",
+      "category": "mixed",
+      "question": "What genders would be involved in your ideal threesome?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-094",
+      "category": "mixed",
+      "question": "Would you prefer being the center of attention or sharing attention equally?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-095",
+      "category": "mixed",
+      "question": "Would you ever attend a queer sex party or adults-only play event?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-096",
+      "category": "mixed",
+      "question": "Could you comfortably watch your consenting partner have sex with somebody else?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-097",
+      "category": "mixed",
+      "question": "Would you enjoy someone consensually watching you have sex?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-098",
+      "category": "mixed",
+      "question": "What's the dirtiest thing you've done that almost none of your friends know about?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-099",
+      "category": "mixed",
+      "question": "Which question in this entire game would you most want to skip?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "MIXED-100",
+      "category": "mixed",
+      "question": "If everybody playing privately wrote down who they thought they'd have the best sexual chemistry with, whose name do you think would appear the most?",
+      "rating": "18+",
+      "intensity": 4,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-001",
+      "category": "general",
+      "question": "What's your favorite food of all time?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-002",
+      "category": "general",
+      "question": "If you could live anywhere in the world, where would you choose?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-003",
+      "category": "general",
+      "question": "What's your favorite movie?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-004",
+      "category": "general",
+      "question": "What's a TV show you could watch over and over?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-005",
+      "category": "general",
+      "question": "Are you a morning person or a night owl?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-006",
+      "category": "general",
+      "question": "What's your favorite season of the year?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-007",
+      "category": "general",
+      "question": "Do you prefer dogs, cats, or another animal?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-008",
+      "category": "general",
+      "question": "What's your favorite holiday?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-009",
+      "category": "general",
+      "question": "What was your favorite subject in school?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-010",
+      "category": "general",
+      "question": "What's your least favorite household chore?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-011",
+      "category": "general",
+      "question": "What's your go-to comfort food?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-012",
+      "category": "general",
+      "question": "What's your favorite restaurant?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-013",
+      "category": "general",
+      "question": "What's your favorite childhood cartoon?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-014",
+      "category": "general",
+      "question": "What's one food you absolutely refuse to eat?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-015",
+      "category": "general",
+      "question": "If you could instantly learn another language, which would you choose?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-016",
+      "category": "general",
+      "question": "What's your favorite way to spend a rainy day?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-017",
+      "category": "general",
+      "question": "What was your first job?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-018",
+      "category": "general",
+      "question": "What's your favorite smell?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-019",
+      "category": "general",
+      "question": "Would you rather live in a big city or a small town?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-020",
+      "category": "general",
+      "question": "What's your favorite dessert?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-021",
+      "category": "general",
+      "question": "What was your childhood dream job?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-022",
+      "category": "general",
+      "question": "Do you prefer texting, calling, or talking face-to-face?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-023",
+      "category": "general",
+      "question": "What's your favorite breakfast?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-024",
+      "category": "general",
+      "question": "What's a movie everyone loves that you don't understand the hype around?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-025",
+      "category": "general",
+      "question": "What's your favorite childhood memory?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-026",
+      "category": "general",
+      "question": "What's the strangest food you've ever tried?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-027",
+      "category": "general",
+      "question": "What's one thing you're surprisingly good at?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-028",
+      "category": "general",
+      "question": "What's something you're hilariously bad at?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-029",
+      "category": "general",
+      "question": "What's your most irrational fear?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-030",
+      "category": "general",
+      "question": "What's the weirdest dream you remember having?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-031",
+      "category": "general",
+      "question": "If you won $1 million tomorrow, what's the first thing you'd buy?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-032",
+      "category": "general",
+      "question": "What's the most expensive thing you've bought that wasn't a necessity?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-033",
+      "category": "general",
+      "question": "What's your favorite pizza topping?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-034",
+      "category": "general",
+      "question": "What's your least favorite popular food?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-035",
+      "category": "general",
+      "question": "Do you prefer hot weather or cold weather?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-036",
+      "category": "general",
+      "question": "What's the longest road trip you've ever taken?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-037",
+      "category": "general",
+      "question": "What's your favorite amusement park ride?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-038",
+      "category": "general",
+      "question": "What's one place you've always wanted to visit?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-039",
+      "category": "general",
+      "question": "Would you rather travel to the past or the future?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-040",
+      "category": "general",
+      "question": "What historical period would you want to visit for a day?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-041",
+      "category": "general",
+      "question": "What's your favorite color to wear?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-042",
+      "category": "general",
+      "question": "Do you collect anything?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-043",
+      "category": "general",
+      "question": "What's your favorite animal?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-044",
+      "category": "general",
+      "question": "What's your go-to karaoke song?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-045",
+      "category": "general",
+      "question": "What's a song you know every word to?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-046",
+      "category": "general",
+      "question": "What's the first concert you ever attended?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-047",
+      "category": "general",
+      "question": "What's the best concert you've ever attended?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-048",
+      "category": "general",
+      "question": "What's the most embarrassing fashion trend you participated in?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-049",
+      "category": "general",
+      "question": "What's a trend you wish would return?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-050",
+      "category": "general",
+      "question": "What's a trend you wish would disappear forever?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-051",
+      "category": "general",
+      "question": "What's a fictional universe you'd love to live in?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-052",
+      "category": "general",
+      "question": "Which fictional character reminds you most of yourself?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-053",
+      "category": "general",
+      "question": "What's your favorite board game?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-054",
+      "category": "general",
+      "question": "What's your favorite video game?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-055",
+      "category": "general",
+      "question": "What was your favorite toy growing up?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-056",
+      "category": "general",
+      "question": "What's the weirdest thing you've ever purchased?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-057",
+      "category": "general",
+      "question": "What's something you own that has sentimental value?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-058",
+      "category": "general",
+      "question": "What's the oldest thing you still own?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-059",
+      "category": "general",
+      "question": "What's something you almost always carry with you?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-060",
+      "category": "general",
+      "question": "What's your favorite app on your phone?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-061",
+      "category": "general",
+      "question": "What's one thing you couldn't live without?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-062",
+      "category": "general",
+      "question": "Would you rather be famous or incredibly wealthy?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-063",
+      "category": "general",
+      "question": "What's the most spontaneous thing you've ever done?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-064",
+      "category": "general",
+      "question": "What's a small inconvenience that annoys you way more than it should?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-065",
+      "category": "general",
+      "question": "What's the funniest thing that's happened to you recently?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-066",
+      "category": "general",
+      "question": "What's your most embarrassing public moment?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-067",
+      "category": "general",
+      "question": "Have you ever accidentally embarrassed yourself in front of someone you admired?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-068",
+      "category": "general",
+      "question": "What's the worst haircut you've ever had?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-069",
+      "category": "general",
+      "question": "What's the worst gift you've ever received?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-070",
+      "category": "general",
+      "question": "What's the best gift you've ever received?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-071",
+      "category": "general",
+      "question": "Are you usually early, on time, or late?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-072",
+      "category": "general",
+      "question": "Do you prefer planning everything or being spontaneous?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-073",
+      "category": "general",
+      "question": "What's your favorite way to relax?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-074",
+      "category": "general",
+      "question": "What's a food combination you love that other people find weird?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-075",
+      "category": "general",
+      "question": "What was your favorite childhood snack?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-076",
+      "category": "general",
+      "question": "What's something you believed as a kid that turned out to be completely false?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-077",
+      "category": "general",
+      "question": "What was your first celebrity crush?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-078",
+      "category": "general",
+      "question": "What's your favorite family tradition?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-079",
+      "category": "general",
+      "question": "What's a tradition you'd like to start?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-080",
+      "category": "general",
+      "question": "What's the most unusual place you've ever slept?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-081",
+      "category": "general",
+      "question": "What's something everyone seems to enjoy that you find boring?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-082",
+      "category": "general",
+      "question": "What's an activity most people find boring that you genuinely love?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-083",
+      "category": "general",
+      "question": "If you could have any superpower, what would it be?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-084",
+      "category": "general",
+      "question": "If you could own any fictional vehicle, which would you choose?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-085",
+      "category": "general",
+      "question": "Would you rather explore space or the deepest parts of the ocean?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-086",
+      "category": "general",
+      "question": "What's a conspiracy theory you find entertaining even though you don't believe it?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-087",
+      "category": "general",
+      "question": "If you could meet one historical figure, who would it be?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-088",
+      "category": "general",
+      "question": "What famous person would you want as a roommate?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-089",
+      "category": "general",
+      "question": "What would your personal theme song be?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-090",
+      "category": "general",
+      "question": "What's your favorite ice cream flavor?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-091",
+      "category": "general",
+      "question": "Would you rather give up music or movies for a year?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-092",
+      "category": "general",
+      "question": "What's the most useless fact you know?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-093",
+      "category": "general",
+      "question": "What's a word you always struggle to spell?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-094",
+      "category": "general",
+      "question": "What's the funniest nickname you've ever had?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-095",
+      "category": "general",
+      "question": "What's something people consistently misunderstand about you?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-096",
+      "category": "general",
+      "question": "If you could relive one day simply for fun, which would it be?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-097",
+      "category": "general",
+      "question": "What fictional creature would make the best pet?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-098",
+      "category": "general",
+      "question": "What's something you have an unreasonable amount of knowledge about?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-099",
+      "category": "general",
+      "question": "If your life were a sitcom, what would its title be?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "GEN-100",
+      "category": "general",
+      "question": "What's one random fact about yourself that almost nobody knows?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-001",
+      "category": "deep",
+      "question": "What's something about yourself you're genuinely proud of?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-002",
+      "category": "deep",
+      "question": "What's your biggest fear about the future?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-003",
+      "category": "deep",
+      "question": "What's a decision that completely changed the direction of your life?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-004",
+      "category": "deep",
+      "question": "What's the hardest lesson you've ever learned?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-005",
+      "category": "deep",
+      "question": "When was the last time you felt truly happy?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-006",
+      "category": "deep",
+      "question": "What's something you wish people understood about you?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-007",
+      "category": "deep",
+      "question": "What's a childhood experience that shaped who you are today?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-008",
+      "category": "deep",
+      "question": "What's something you're still trying to forgive yourself for?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-009",
+      "category": "deep",
+      "question": "Do you believe people can fundamentally change?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-010",
+      "category": "deep",
+      "question": "What does success mean to you personally?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-011",
+      "category": "deep",
+      "question": "What's something you regret not doing?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-012",
+      "category": "deep",
+      "question": "What's a moment you wish you could experience again?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-013",
+      "category": "deep",
+      "question": "What's something you've never had the courage to say?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-014",
+      "category": "deep",
+      "question": "What makes you feel genuinely loved?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-015",
+      "category": "deep",
+      "question": "When do you feel most like yourself?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-016",
+      "category": "deep",
+      "question": "What's something you're afraid of losing?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-017",
+      "category": "deep",
+      "question": "Have you ever felt completely misunderstood?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-018",
+      "category": "deep",
+      "question": "What's a belief you've changed your mind about as you've gotten older?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-019",
+      "category": "deep",
+      "question": "What's one thing you've learned from a failed relationship?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-020",
+      "category": "deep",
+      "question": "What's your biggest insecurity?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-021",
+      "category": "deep",
+      "question": "When was the last time you cried, and why?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-022",
+      "category": "deep",
+      "question": "What's a compliment you've never forgotten?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-023",
+      "category": "deep",
+      "question": "What's something you wish you could tell your younger self?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-024",
+      "category": "deep",
+      "question": "What do you think your younger self would admire about you today?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-025",
+      "category": "deep",
+      "question": "What do you think your younger self would be disappointed about?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-026",
+      "category": "deep",
+      "question": "What's a goal you've quietly given up on?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-027",
+      "category": "deep",
+      "question": "What's a dream you still hope to accomplish?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-028",
+      "category": "deep",
+      "question": "What motivates you to keep going when life becomes difficult?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-029",
+      "category": "deep",
+      "question": "Have you ever had to completely start over?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-030",
+      "category": "deep",
+      "question": "What's the loneliest you've ever felt?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-031",
+      "category": "deep",
+      "question": "What does friendship mean to you?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-032",
+      "category": "deep",
+      "question": "What's the most important quality you look for in a friend?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-033",
+      "category": "deep",
+      "question": "What's something that can permanently damage your trust in someone?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-034",
+      "category": "deep",
+      "question": "Have you ever lost a friendship you thought would last forever?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-035",
+      "category": "deep",
+      "question": "Do you find it easy or difficult to make new friends?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-036",
+      "category": "deep",
+      "question": "What's something you wish your friends asked you about more often?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-037",
+      "category": "deep",
+      "question": "How do you usually react when someone hurts your feelings?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-038",
+      "category": "deep",
+      "question": "Do you tend to confront problems or avoid conflict?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-039",
+      "category": "deep",
+      "question": "What's something you have trouble communicating?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-040",
+      "category": "deep",
+      "question": "When do you find it hardest to ask for help?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-041",
+      "category": "deep",
+      "question": "What's the nicest thing someone has ever done for you?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-042",
+      "category": "deep",
+      "question": "What's the kindest thing you've done for someone without expecting anything in return?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-043",
+      "category": "deep",
+      "question": "What makes you feel appreciated?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-044",
+      "category": "deep",
+      "question": "What's something you're currently working to improve about yourself?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-045",
+      "category": "deep",
+      "question": "What's a personality trait you wish you didn't have?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-046",
+      "category": "deep",
+      "question": "What's a trait you've learned to appreciate about yourself?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-047",
+      "category": "deep",
+      "question": "Do you think you're harder on yourself than other people are?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-048",
+      "category": "deep",
+      "question": "What's something you've accomplished that nobody really knows about?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-049",
+      "category": "deep",
+      "question": "What's something you pretend doesn't bother you, even though it does?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-050",
+      "category": "deep",
+      "question": "What's the biggest misconception people have about your personality?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-051",
+      "category": "deep",
+      "question": "Do you think happiness is something you find or something you create?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-052",
+      "category": "deep",
+      "question": "Do you believe everything happens for a reason?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-053",
+      "category": "deep",
+      "question": "How much control do you think we really have over our lives?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-054",
+      "category": "deep",
+      "question": "What do you think makes someone a good person?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-055",
+      "category": "deep",
+      "question": "Do you believe in second chances?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-056",
+      "category": "deep",
+      "question": "When does forgiving someone become unhealthy?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-057",
+      "category": "deep",
+      "question": "Is honesty always the best policy?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-058",
+      "category": "deep",
+      "question": "Would you rather know an uncomfortable truth or remain happily unaware?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-059",
+      "category": "deep",
+      "question": "What's more important to you: loyalty or honesty?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-060",
+      "category": "deep",
+      "question": "Can you genuinely love someone without fully understanding them?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-061",
+      "category": "deep",
+      "question": "Do you believe soulmates exist?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-062",
+      "category": "deep",
+      "question": "What's the difference between loving someone and being in love with them?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-063",
+      "category": "deep",
+      "question": "What does emotional intimacy mean to you?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-064",
+      "category": "deep",
+      "question": "What's something you need from people but struggle to ask for?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-065",
+      "category": "deep",
+      "question": "What's a boundary you've learned to enforce?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-066",
+      "category": "deep",
+      "question": "Do you find it easier to trust people or expect disappointment?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-067",
+      "category": "deep",
+      "question": "Have you ever sabotaged something good because you were afraid?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-068",
+      "category": "deep",
+      "question": "Do you think you're emotionally available?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-069",
+      "category": "deep",
+      "question": "What's a relationship pattern you've noticed in yourself?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-070",
+      "category": "deep",
+      "question": "What scares you most about being vulnerable?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-071",
+      "category": "deep",
+      "question": "What experience made you grow up the fastest?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-072",
+      "category": "deep",
+      "question": "What's an expectation you feel pressured to meet?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-073",
+      "category": "deep",
+      "question": "Have you ever felt like you were living someone else's version of your life?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-074",
+      "category": "deep",
+      "question": "What's something you do primarily because you fear disappointing others?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-075",
+      "category": "deep",
+      "question": "Do you feel comfortable with who you've become?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-076",
+      "category": "deep",
+      "question": "What's one part of your identity you wish you'd embraced sooner?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-077",
+      "category": "deep",
+      "question": "How has your definition of family changed over time?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-078",
+      "category": "deep",
+      "question": "What do you value more now than you did five years ago?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-079",
+      "category": "deep",
+      "question": "What's something you used to care deeply about but no longer do?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-080",
+      "category": "deep",
+      "question": "What are you most grateful for today?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-081",
+      "category": "deep",
+      "question": "If money weren't a concern, how would you spend your life?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-082",
+      "category": "deep",
+      "question": "What would your ideal future look like in ten years?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-083",
+      "category": "deep",
+      "question": "What scares you most about getting older?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-084",
+      "category": "deep",
+      "question": "Do you think you'll ever feel completely satisfied with your accomplishments?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-085",
+      "category": "deep",
+      "question": "What's a risk you wish you'd taken?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-086",
+      "category": "deep",
+      "question": "What's the bravest thing you've ever done?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-087",
+      "category": "deep",
+      "question": "Have you ever walked away from something you still wanted?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-088",
+      "category": "deep",
+      "question": "What's something you had to accept even though you didn't want to?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-089",
+      "category": "deep",
+      "question": "What makes life feel meaningful to you?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-090",
+      "category": "deep",
+      "question": "What do you hope people remember about you?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-091",
+      "category": "deep",
+      "question": "What's something you wish you could change about the world?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-092",
+      "category": "deep",
+      "question": "If you could ask your future self one question, what would it be?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-093",
+      "category": "deep",
+      "question": "What conversation changed your perspective on life?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-094",
+      "category": "deep",
+      "question": "Have you ever felt deeply connected to someone you barely knew?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-095",
+      "category": "deep",
+      "question": "When have you felt the most supported by another person?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-096",
+      "category": "deep",
+      "question": "What's the biggest emotional risk you've ever taken?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-097",
+      "category": "deep",
+      "question": "What would you do differently if you stopped worrying about others judging you?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-098",
+      "category": "deep",
+      "question": "What's something you hope to experience before you die?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-099",
+      "category": "deep",
+      "question": "What's a question about yourself you're still trying to answer?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "DEEP-100",
+      "category": "deep",
+      "question": "What's something you've always wanted your friends to know about you but have never found the right moment to share?",
+      "rating": "sfw",
+      "intensity": 2,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-001",
+      "category": "hobby",
+      "question": "What's your favorite hobby?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-002",
+      "category": "hobby",
+      "question": "What's a hobby you've always wanted to try?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-003",
+      "category": "hobby",
+      "question": "What's a hobby you used to enjoy but eventually abandoned?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-004",
+      "category": "hobby",
+      "question": "What's a hobby you wish you had more time for?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-005",
+      "category": "hobby",
+      "question": "How much money have you spent on your most expensive hobby?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-006",
+      "category": "hobby",
+      "question": "What's something you collect?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-007",
+      "category": "hobby",
+      "question": "What's the rarest or most valuable collectible you own?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-008",
+      "category": "hobby",
+      "question": "What collectible would be your ultimate dream find?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-009",
+      "category": "hobby",
+      "question": "What's something you've kept from childhood because of a hobby?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-010",
+      "category": "hobby",
+      "question": "What's a hobby your friends would be surprised to learn you have?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-011",
+      "category": "hobby",
+      "question": "What's your favorite video game of all time?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-012",
+      "category": "hobby",
+      "question": "What's the first video game you remember playing?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-013",
+      "category": "hobby",
+      "question": "What's a video game you've put hundreds of hours into?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-014",
+      "category": "hobby",
+      "question": "What game have you replayed the most?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-015",
+      "category": "hobby",
+      "question": "What's your favorite gaming console?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-016",
+      "category": "hobby",
+      "question": "What's the hardest video game you've ever beaten?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-017",
+      "category": "hobby",
+      "question": "What game made you genuinely emotional?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-018",
+      "category": "hobby",
+      "question": "What's the most memorable video game soundtrack?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-019",
+      "category": "hobby",
+      "question": "Do you prefer single-player or multiplayer games?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-020",
+      "category": "hobby",
+      "question": "What's a game you think everyone should experience?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-021",
+      "category": "hobby",
+      "question": "What's your favorite board game?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-022",
+      "category": "hobby",
+      "question": "What's your favorite tabletop or roleplaying game?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-023",
+      "category": "hobby",
+      "question": "If you could live inside any video game world, which would you choose?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-024",
+      "category": "hobby",
+      "question": "What fictional character would you want on your adventuring team?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-025",
+      "category": "hobby",
+      "question": "What's your favorite D&D class or fantasy character archetype?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-026",
+      "category": "hobby",
+      "question": "Have you ever created a fictional character you're especially proud of?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-027",
+      "category": "hobby",
+      "question": "Do you prefer competitive gaming or cooperative gaming?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-028",
+      "category": "hobby",
+      "question": "What's your proudest gaming achievement?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-029",
+      "category": "hobby",
+      "question": "What's the most frustrating boss fight you've ever experienced?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-030",
+      "category": "hobby",
+      "question": "What game deserves a remake or sequel?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-031",
+      "category": "hobby",
+      "question": "Who's your favorite musical artist or band?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-032",
+      "category": "hobby",
+      "question": "What's your favorite album of all time?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-033",
+      "category": "hobby",
+      "question": "What's your favorite music genre?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-034",
+      "category": "hobby",
+      "question": "What's an underrated band you wish more people knew about?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-035",
+      "category": "hobby",
+      "question": "What's the most unusual genre of music you enjoy?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-036",
+      "category": "hobby",
+      "question": "Do you play a musical instrument?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-037",
+      "category": "hobby",
+      "question": "What instrument would you love to learn?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-038",
+      "category": "hobby",
+      "question": "Have you ever written a song?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-039",
+      "category": "hobby",
+      "question": "What's your favorite song to sing along to?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-040",
+      "category": "hobby",
+      "question": "What concert or festival would you love to attend?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-041",
+      "category": "hobby",
+      "question": "What's the best live performance you've ever seen?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-042",
+      "category": "hobby",
+      "question": "Do you prefer discovering new music or revisiting favorites?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-043",
+      "category": "hobby",
+      "question": "Do you collect vinyl records, CDs, or other physical music?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-044",
+      "category": "hobby",
+      "question": "What's an album you consider nearly perfect?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-045",
+      "category": "hobby",
+      "question": "What musician would you love to collaborate with?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-046",
+      "category": "hobby",
+      "question": "Who's your favorite film director?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-047",
+      "category": "hobby",
+      "question": "What's your favorite movie genre?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-048",
+      "category": "hobby",
+      "question": "What's a movie you appreciate more every time you watch it?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-049",
+      "category": "hobby",
+      "question": "What's an underrated movie you'd recommend to everyone?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-050",
+      "category": "hobby",
+      "question": "What's your favorite movie soundtrack?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-051",
+      "category": "hobby",
+      "question": "Are you interested in filmmaking or video editing?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-052",
+      "category": "hobby",
+      "question": "What movie scene do you consider visually perfect?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-053",
+      "category": "hobby",
+      "question": "What fictional universe has the most interesting lore?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-054",
+      "category": "hobby",
+      "question": "Do you prefer movies or television series?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-055",
+      "category": "hobby",
+      "question": "What's a canceled TV series you wish had continued?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-056",
+      "category": "hobby",
+      "question": "Do you enjoy reading books?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-057",
+      "category": "hobby",
+      "question": "What's your favorite book or book series?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-058",
+      "category": "hobby",
+      "question": "What literary genre do you enjoy most?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-059",
+      "category": "hobby",
+      "question": "Have you ever tried writing a novel or short story?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-060",
+      "category": "hobby",
+      "question": "What fictional world would you love to write a story set in?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-061",
+      "category": "hobby",
+      "question": "Do you draw, paint, or create digital art?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-062",
+      "category": "hobby",
+      "question": "What's your favorite artistic medium?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-063",
+      "category": "hobby",
+      "question": "Have you ever made something creative that you're particularly proud of?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-064",
+      "category": "hobby",
+      "question": "Is there an artist whose style you'd love to emulate?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-065",
+      "category": "hobby",
+      "question": "Have you ever tried photography?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-066",
+      "category": "hobby",
+      "question": "What's your favorite subject to photograph?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-067",
+      "category": "hobby",
+      "question": "Do you prefer creating art traditionally or digitally?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-068",
+      "category": "hobby",
+      "question": "Have you ever experimented with 3D modeling or animation?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-069",
+      "category": "hobby",
+      "question": "What's the most time-consuming creative project you've completed?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-070",
+      "category": "hobby",
+      "question": "If you could master any creative skill instantly, what would it be?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-071",
+      "category": "hobby",
+      "question": "Do you follow any sports?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-072",
+      "category": "hobby",
+      "question": "What's your favorite sport to watch?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-073",
+      "category": "hobby",
+      "question": "What's your favorite sport to play?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-074",
+      "category": "hobby",
+      "question": "What sporting event would you love to attend in person?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-075",
+      "category": "hobby",
+      "question": "Have you ever participated in a tournament or competition?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-076",
+      "category": "hobby",
+      "question": "What's a physical activity you find genuinely enjoyable?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-077",
+      "category": "hobby",
+      "question": "Have you ever tried an extreme sport?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-078",
+      "category": "hobby",
+      "question": "What's an outdoor activity you love?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-079",
+      "category": "hobby",
+      "question": "Do you enjoy hiking or camping?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-080",
+      "category": "hobby",
+      "question": "What's the most beautiful natural place you've visited?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-081",
+      "category": "hobby",
+      "question": "Do you enjoy cooking?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-082",
+      "category": "hobby",
+      "question": "What's the most complicated meal you've ever made?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-083",
+      "category": "hobby",
+      "question": "What's your signature dish?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-084",
+      "category": "hobby",
+      "question": "Do you enjoy baking?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-085",
+      "category": "hobby",
+      "question": "What's a dish from another culture you'd love to learn to make?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-086",
+      "category": "hobby",
+      "question": "Have you ever tried gardening?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-087",
+      "category": "hobby",
+      "question": "What plant would you love to grow successfully?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-088",
+      "category": "hobby",
+      "question": "Do you enjoy building, fixing, or restoring things?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-089",
+      "category": "hobby",
+      "question": "What's the most ambitious DIY project you've attempted?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-090",
+      "category": "hobby",
+      "question": "If you had unlimited resources, what would you build?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-091",
+      "category": "hobby",
+      "question": "Are you interested in programming or technology projects?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-092",
+      "category": "hobby",
+      "question": "What's the coolest thing you've created using technology?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-093",
+      "category": "hobby",
+      "question": "Have you ever built or customized a computer?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-094",
+      "category": "hobby",
+      "question": "What emerging technology are you most excited about?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-095",
+      "category": "hobby",
+      "question": "Have you experimented with AI-generated art, music, video, or writing?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-096",
+      "category": "hobby",
+      "question": "What's a niche internet community or fandom you're involved in?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-097",
+      "category": "hobby",
+      "question": "What's a hobby you enjoy researching almost as much as actually doing?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-098",
+      "category": "hobby",
+      "question": "What's a hobby you could talk about for hours without getting bored?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-099",
+      "category": "hobby",
+      "question": "If you could turn one of your interests into a full-time career, which would you choose?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    },
+    {
+      "id": "HOBBY-100",
+      "category": "hobby",
+      "question": "If you had unlimited money, unlimited free time, and access to the best equipment imaginable, what hobby would you devote yourself to?",
+      "rating": "sfw",
+      "intensity": 1,
+      "tags": [],
+      "enabled": true
+    }
+  ]
+}
